@@ -1,3 +1,3 @@
 # Codeplayer
 YOU CAN ACCESS THE WEBSITE HERE
-https://naushaba-shaik.github.io/Codeplayer/
+https://haleemasadia-07.github.io/CODE_PLAYER/
